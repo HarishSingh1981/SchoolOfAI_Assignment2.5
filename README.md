@@ -18,6 +18,7 @@ is connected to 4th FC layer with 19 output which is basically second prediction
 Finally softmax function is used before both the outputs to get the probability distribution and likliness of result.
 
 Error Function:
+
 cross_entropy error function is used for both the results and avg of error is used for back-propogation.
 avg_error = 0.5*loss_mnist + 0.5*loss_sum
 
