@@ -56,3 +56,13 @@ epoch --> 4 loss_sum --> 3463.781982421875 and correct predictions of sum --> 82
 epoch --> 5 loss_mnist --> 1898.7264404296875 and correct predictions --> 52821
 
 epoch --> 5 loss_sum --> 3452.42041015625 and correct predictions of sum --> 9528
+
+Training Result:
+
+epoch --> 99 loss_mnist --> 1858.3717041015625 and correct predictions --> 54477
+
+epoch --> 99 loss_sum --> 3245.401611328125 and correct predictions of sum --> 19333
+
+Accuracy of prediction of Mnist dataset is 90.795%
+
+Accuracy of prediction of sum of random number with Mnist dataset label is 32.2216 %
