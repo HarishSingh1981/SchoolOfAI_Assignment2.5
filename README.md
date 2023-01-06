@@ -29,6 +29,7 @@ Length of Mnist dataset -- > 60000
 Available device -- > cpu
 
 epoch --> 0 loss_mnist --> 2761.647705078125 and correct predictions --> 8217
+
 epoch --> 0 loss_sum --> 3532.280517578125 and correct predictions of sum --> 4085
 epoch --> 1 loss_mnist --> 2333.012451171875 and correct predictions --> 33738
 epoch --> 1 loss_sum --> 3510.42236328125 and correct predictions of sum --> 5642
