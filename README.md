@@ -33,36 +33,30 @@ Logs for training with total predictions of Mnist data and sum:
 Length of Mnist dataset -- > 60000
 Available device -- > cpu
 
-epoch --> 0 loss_mnist --> 2761.647705078125 and correct predictions --> 8217
+epoch --> 34 loss_sum --> 3307.80615234375 and correct predictions of sum --> 17184
 
-epoch --> 0 loss_sum --> 3532.280517578125 and correct predictions of sum --> 4085
+epoch --> 35 loss_mnist --> 1761.3050537109375 and correct predictions --> 59648
 
-epoch --> 1 loss_mnist --> 2333.012451171875 and correct predictions --> 33738
+epoch --> 35 loss_sum --> 3305.298828125 and correct predictions of sum --> 17269
 
-epoch --> 1 loss_sum --> 3510.42236328125 and correct predictions of sum --> 5642
+epoch --> 36 loss_mnist --> 1761.3857421875 and correct predictions --> 59650
 
-epoch --> 2 loss_mnist --> 1953.821533203125 and correct predictions --> 50204
+epoch --> 36 loss_sum --> 3307.980712890625 and correct predictions of sum --> 17060
 
-epoch --> 2 loss_sum --> 3485.0546875 and correct predictions of sum --> 6801
+epoch --> 37 loss_mnist --> 1760.899169921875 and correct predictions --> 59683
 
-epoch --> 3 loss_mnist --> 1922.014404296875 and correct predictions --> 51756
+epoch --> 37 loss_sum --> 3303.611572265625 and correct predictions of sum --> 17251
 
-epoch --> 3 loss_sum --> 3471.4658203125 and correct predictions of sum --> 7548
+epoch --> 38 loss_mnist --> 1760.797607421875 and correct predictions --> 59671
 
-epoch --> 4 loss_mnist --> 1907.6500244140625 and correct predictions --> 52449
+epoch --> 38 loss_sum --> 3301.642578125 and correct predictions of sum --> 17324
 
-epoch --> 4 loss_sum --> 3463.781982421875 and correct predictions of sum --> 8274
+epoch --> 39 loss_mnist --> 1760.33203125 and correct predictions --> 59687
 
-epoch --> 5 loss_mnist --> 1898.7264404296875 and correct predictions --> 52821
-
-epoch --> 5 loss_sum --> 3452.42041015625 and correct predictions of sum --> 9528
+epoch --> 39 loss_sum --> 3303.681640625 and correct predictions of sum --> 17168
 
 Training Result:
 
-epoch --> 99 loss_mnist --> 1858.3717041015625 and correct predictions --> 54477
+Accuracy of prediction of Mnist dataset is 99.4783%
 
-epoch --> 99 loss_sum --> 3245.401611328125 and correct predictions of sum --> 19333
-
-Accuracy of prediction of Mnist dataset is 90.795%
-
-Accuracy of prediction of sum of random number with Mnist dataset label is 32.2216 %
+Accuracy of prediction of sum of random number with Mnist dataset label is 29.6 %
