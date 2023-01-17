@@ -27,6 +27,7 @@ Logs for training with total predictions of Mnist data and sum:
 Length of Mnist dataset -- > 60000
 Available device -- > cuda0
 
+```
 epoch --> 0 loss_mnist --> 515.3477172851562 and correct predictions --> 51408
 
 epoch --> 0 loss_sum --> 2806.18017578125 and correct predictions of sum --> 8650
@@ -66,13 +67,16 @@ epoch --> 8 loss_sum --> 57.48320388793945 and correct predictions of sum --> 59
 epoch --> 9 loss_mnist --> 37.196250915527344 and correct predictions --> 59395
 
 epoch --> 9 loss_sum --> 54.71113586425781 and correct predictions of sum --> 59218
+```
 
+```
 Training Accuracy:
 
 Accuracy of prediction of Mnist dataset is 98.9916%
 
 Accuracy of prediction of sum of random number with Mnist dataset label is 98.6966 %
-
+```
+```
 Validation Accuracy:
 
 Logs-->
@@ -84,4 +88,4 @@ correct predictions --> 9800 out of 10000
 correct predictions of sum --> 9800 out of 10000
 
 Validation accuracy of model is 98%
-
+```
